@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: aliceblue;
+    padding-top: 30%;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+   color: blue;
+}
+img {
+    float: center;
+    border: none;
+    margin: 0px 0px 15px 20px;
+    border-radius: 2rem;
+    width: 39%; height: 40%;
+  }
+
+  p{
+    font-size: 40px;
+    color: rgb(26, 26, 25);
+    font-weight: 100;
+    float: right;
+    
+    
+  }
